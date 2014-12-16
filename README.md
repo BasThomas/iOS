@@ -1,4 +1,4 @@
 iOS
 ===
 
-Opdrachten gemaakt aan de hand van iOS Programming
+This repository contains all projects and files used in the iOS/Swift Tutorial.
